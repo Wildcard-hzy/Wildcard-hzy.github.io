@@ -27,7 +27,7 @@ My research interest includes Mobile Computing and Ubiquitous Computing. I have 
 
 # 📝 Publications 
 
-- [Headmon: Head dynamics enabled riding maneuver prediction](), **Zengyi Han**, Liqiang Xu, Xuefu Dong, Yuuki Nishiyama, Kaoru Sezaki, **IEEE PerCom 2023**
+- [Headmon: Head dynamics enabled riding maneuver prediction], **Zengyi Han**, Liqiang Xu, Xuefu Dong, Yuuki Nishiyama, Kaoru Sezaki, **IEEE PerCom 2023**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
