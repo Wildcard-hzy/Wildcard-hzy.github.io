@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zengyi Han"
-description              : "Lecturer in the College of Artificial Intelligence."
+description              : "College of Artificial Intelligence, Dalian Maritime University"
 repository               : ""
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zengyi Han"
   avatar           : "images/hzy_pic2.png"
-  bio              : "Dalian Maritime University"
+  bio              : "Lecturer"
   location         : "Dalian, China"
   employer         :
   pubmed           : 
