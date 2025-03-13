@@ -41,6 +41,7 @@ My research interest includes Mobile Computing and Ubiquitous Computing. I have 
 
 # 📝 Publications 
 - [RideGuard: Micro-Mobility Steering Maneuver Prediction with Smartphones, 2024 IEEE 44th International Conference on Distributed Computing Systems (ICDCS). IEEE, 2024], **Zengyi Han**, Xuefu Dong, Liqiang Xu, Zhen Zhu, En Wang, Yuuki Nishiyama, Kaoru Sezaki. **IEEE ICDCS 2024**
+- [HeadSense: Visual Search Monitoring and Distracted Behavior Detection for Bicycle Riders, 2023 IEEE 24th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM). IEEE, 2023], **Zengyi Han**, Xuefu Dong, Yuuki Nishiyama, Kaoru Sezaki. **IEEE WoWMoM 2023**
 - [Headmon: Head dynamics enabled riding maneuver prediction, 2023 IEEE International Conference on Pervasive Computing and Communications (PerCom). IEEE, 2023], **Zengyi Han**, Liqiang Xu, Xuefu Dong, Yuuki Nishiyama, Kaoru Sezaki. **IEEE PerCom 2023**
 
 
