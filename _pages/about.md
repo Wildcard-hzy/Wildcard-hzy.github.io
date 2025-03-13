@@ -23,23 +23,26 @@ My research interest includes Mobile Computing and Ubiquitous Computing. I have 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
-# 📝 Publications 
-
-- [Headmon: Head dynamics enabled riding maneuver prediction], **Zengyi Han**, Liqiang Xu, Xuefu Dong, Yuuki Nishiyama, Kaoru Sezaki, **IEEE PerCom 2023**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💻 Work Experience
+- *2023.06 - now*, [College of Artificial Intelligence, Dalian Maritime University], Dalian, China.
 
 # 📖 Educations
 - *2020.04 - 2023.03*, The University of Tokyo, Information & Communication Engineering. Ph.D. 
 - *2015.09 - 2018.06*, Jilin University, Software Engineering. M.E. 
 - *2011.09 - 2015.06*, Jilin University, Software Engineering. B.E. 
 
-# 💻 Work Experience
-- *2020.04 - 2023.03*, [Lorem](https://github.com/), China.
+
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 📝 Publications 
+- [RideGuard: Micro-Mobility Steering Maneuver Prediction with Smartphones, 2024 IEEE 44th International Conference on Distributed Computing Systems (ICDCS). IEEE, 2024], **Zengyi Han**, Xuefu Dong, Liqiang Xu, Zhen Zhu, En Wang, Yuuki Nishiyama, Kaoru Sezaki. **IEEE ICDCS 2024**
+- [Headmon: Head dynamics enabled riding maneuver prediction, 2023 IEEE International Conference on Pervasive Computing and Communications (PerCom). IEEE, 2023], **Zengyi Han**, Liqiang Xu, Xuefu Dong, Yuuki Nishiyama, Kaoru Sezaki. **IEEE PerCom 2023**
+
 
 # 💬 Invited Talks
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
