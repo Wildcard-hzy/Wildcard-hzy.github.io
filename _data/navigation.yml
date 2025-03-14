@@ -4,10 +4,10 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#news"
+    url: "/#-news"
 
   - title: "Work Experience"
-    url: "/#-Work Experience"
+    url: "/#-work-experience"
 
   - title: "Educations"
     url: "/#-educations"
@@ -16,7 +16,7 @@ main:
     url: "/#-honors-and-awards"
 
   - title: "Publications"
-    url: "/#-Publications"
+    url: "/#-publications"
 
   - title: "Teaching"
-    url: "/#-Teaching"
+    url: "/#-teaching"
