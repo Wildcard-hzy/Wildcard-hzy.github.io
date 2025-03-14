@@ -26,7 +26,7 @@ My research interest includes Mobile Computing and Ubiquitous Computing. I have 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 💻 Work Experience
-- *2023.06 - now*, [College of Artificial Intelligence, Dalian Maritime University], Dalian, China.
+- *2023.06 - now*, College of Artificial Intelligence, Dalian Maritime University, Dalian, China.
 
 # 📖 Educations
 - *2020.04 - 2023.03*, The University of Tokyo, Information & Communication Engineering. Ph.D. 
@@ -47,8 +47,8 @@ My research interest includes Mobile Computing and Ubiquitous Computing. I have 
 
 
 # 💬 Teaching
-- *2025.03*, Trustworthy AI (17) in DMU.
-- *2024.10*,  Discrete Mathematics (17) in DMU.
-- *2024.03*, Trustworthy AI (17) in DMU.
+- *2025.03*, Trustworthy Artificial Intelligence (1713025910) in DMU.
+- *2024.10*, Discrete Mathematics (1713010430) in DMU.
+- *2024.03*, Trustworthy Artificial Intelligence (1713025910) in DMU.
 
 
