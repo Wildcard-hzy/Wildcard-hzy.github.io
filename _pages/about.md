@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 This is Zengyi Han.
-
+I reveived my Ph.D. from Department of Information & Communication Engineering, The University of Tokyo in 2023 (supported by Japan MEXT).
 My research interest includes Mobile Computing and Ubiquitous Computing. I have published at the top international conferences.
 
 
