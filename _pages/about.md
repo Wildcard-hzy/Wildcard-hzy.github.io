@@ -54,5 +54,8 @@ My research interest includes Mobile Computing and Ubiquitous Computing. I have 
 - *2024.10*, Discrete Mathematics (1713010430) in DMU.
 - *2024.03*, Trustworthy Artificial Intelligence (1713025910) in DMU.
 
+# 🚩 Professional Services
+- Reviewer: IEEE TMC, IEEE UIC, ACM UbiComp, Transportation Research
+- PC Member: [ABC 2025](https://autocare.ai/abc2025)
 # 👥 Friends
 [Xuefu Dong](https://xjh9981.github.io/)...
