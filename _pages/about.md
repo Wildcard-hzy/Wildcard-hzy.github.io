@@ -31,10 +31,10 @@ My research interest includes Mobile Computing and Ubiquitous Computing. I have 
 - *2020.04 - 2023.03* Research Assistant, Center for Spatial Information Science, The University of Tokyo, Tokyo, Japan.
 
 # 📖 Educations
-- *2020.04 - 2023.03*, The University of Tokyo, Information & Communication Engineering. Ph.D.
-- *2018.09 - 2019.09*, Northeast Normal University, Preparatory School for Chinese Students to Japan.
-- *2015.09 - 2018.06*, Jilin University, Software Engineering. M.E. 
-- *2011.09 - 2015.06*, Jilin University, Software Engineering. B.E. 
+- *2020.04 - 2023.03*, Ph.D, Information & Communication Engineering, The University of Tokyo, Tokyo, Japan.
+- *2018.09 - 2019.09*, Preparatory School for Chinese Students to Japan, Northeast Normal University, Changchun, China.
+- *2015.09 - 2018.06*, M.E, Software Engineering, Jilin University, Changchun, China.
+- *2011.09 - 2015.06*, B.E, Software Engineering, Jilin University, Changchun, China.  
 
 
 # 🎖 Honors and Awards
