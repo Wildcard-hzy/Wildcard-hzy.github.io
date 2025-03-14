@@ -32,9 +32,9 @@ My research interest includes Mobile Computing and Ubiquitous Computing. I have 
 - *2020.04 - 2023.03* Research Assistant, Center for Spatial Information Science, The University of Tokyo, Tokyo, Japan.
 
 # 📖 Educations
-- *2020.04 - 2023.03*, Ph.D, Information & Communication Engineering, The University of Tokyo, Tokyo, Japan.
+- *2020.04 - 2023.03*, Ph.D, Information & Communication Engineering, The University of Tokyo, Tokyo, Japan. Advisor: [Prof. Kaoru Sezaki](https://www.mcl.iis.u-tokyo.ac.jp/kaoru-sezaki-ph-d/)
 - *2018.09 - 2019.09*, Preparatory School for Chinese Students to Japan, Northeast Normal University, Changchun, China.
-- *2015.09 - 2018.06*, M.E, Software Engineering, Jilin University, Changchun, China.
+- *2015.09 - 2018.06*, M.E, Software Engineering, Jilin University, Changchun, China. Advisor: [Prof. Yongjian Yang](https://ccst.jlu.edu.cn/info/1367/19074.htm) and [Prof. En Wang](https://ccst.jlu.edu.cn/info/1367/19088.htm)
 - *2011.09 - 2015.06*, B.E, Software Engineering, Jilin University, Changchun, China.  
 
 
