@@ -49,7 +49,7 @@ My research interest includes Mobile Computing and Ubiquitous Computing. I have 
 - **IEEE SMC 2022** [Doublecheck: Single-handed cycling detection with a smartphone, 2022 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2022], Xuefu Dong, **Zengyi Han\***, Yuuki Nishiyama, Kaoru Sezaki. 
 
 
-# :clipboard: Teaching
+# 📋 Teaching
 - *2025.03*, Trustworthy Artificial Intelligence (1713025910) in DMU.
 - *2024.10*, Discrete Mathematics (1713010430) in DMU.
 - *2024.03*, Trustworthy Artificial Intelligence (1713025910) in DMU.
