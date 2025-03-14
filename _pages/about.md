@@ -60,4 +60,4 @@ My research interest includes Mobile Computing and Ubiquitous Computing. I have 
 # 👥 Friends
 [Xuefu Dong](https://xjh9981.github.io/)
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Amdvu9dO1llvuznD1KtywBiFI_IibjGjVDhrjmDtUgs&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Amdvu9dO1llvuznD1KtywBiFI_IibjGjVDhrjmDtUgs&cl=ffffff&w=200&h=150"></script>
