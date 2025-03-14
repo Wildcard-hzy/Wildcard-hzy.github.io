@@ -59,3 +59,5 @@ My research interest includes Mobile Computing and Ubiquitous Computing. I have 
 - PC Member: [ABC 2025](https://autocare.ai/abc2025), COMSNETS 2025
 # 👥 Friends
 [Xuefu Dong](https://xjh9981.github.io/)
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Amdvu9dO1llvuznD1KtywBiFI_IibjGjVDhrjmDtUgs&cl=ffffff&w=a"></script>
