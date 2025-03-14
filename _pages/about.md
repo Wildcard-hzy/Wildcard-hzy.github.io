@@ -56,6 +56,6 @@ My research interest includes Mobile Computing and Ubiquitous Computing. I have 
 
 # 🚩 Professional Services
 - Reviewer: IEEE TMC, IEEE UIC, ACM UbiComp, Transportation Research
-- PC Member: [ABC 2025](https://autocare.ai/abc2025)
+- PC Member: [ABC 2025](https://autocare.ai/abc2025), COMSNETS 2025
 # 👥 Friends
-[Xuefu Dong](https://xjh9981.github.io/)...
+[Xuefu Dong](https://xjh9981.github.io/)
