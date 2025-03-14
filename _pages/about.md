@@ -27,13 +27,14 @@ My research interest includes Mobile Computing and Ubiquitous Computing. I have 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 💻 Work Experience
-- *2023.06 - now*, College of Artificial Intelligence, Dalian Maritime University, Dalian, China.
+- *2023.06 - now*, Lecturer, College of Artificial Intelligence, Dalian Maritime University, Dalian, China.
+- *2020.04 - 2023.03* Research Assistant, Center for Spatial Information Science, The University of Tokyo, Tokyo, Japan.
 
 # 📖 Educations
-- *2020.04 - 2023.03*, The University of Tokyo, Information & Communication Engineering. Ph.D. 
+- *2020.04 - 2023.03*, The University of Tokyo, Information & Communication Engineering. Ph.D.
+- *2018.09 - 2019.09*, Northeast Normal University, Preparatory School for Chinese Students to Japan.
 - *2015.09 - 2018.06*, Jilin University, Software Engineering. M.E. 
 - *2011.09 - 2015.06*, Jilin University, Software Engineering. B.E. 
-
 
 
 # 🎖 Honors and Awards
