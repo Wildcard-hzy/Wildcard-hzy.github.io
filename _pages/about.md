@@ -52,13 +52,12 @@ My research interest includes Mobile Computing and Ubiquitous Computing. I have 
 
 
 # 📋 Teaching
-- *2025.03*, Trustworthy Artificial Intelligence (1713025910) in DMU.
-- *2024.10*, Discrete Mathematics (1713010430) in DMU.
-- *2024.03*, Trustworthy Artificial Intelligence (1713025910) in DMU.
+- *Discrete Mathematics* (1713010430) in DMU, 64 credit hours. 2024.
+- *Trustworthy Artificial Intelligence* (1713025910) in DMU, 40 credit hours. 2024-2025.
 
 # 🚩 Professional Services
-- Reviewer: IEEE TMC, IEEE UIC, ACM UbiComp, Transportation Research
-- PC Member: [ABC 2025](https://autocare.ai/abc2025), COMSNETS 2025
+- Reviewer: IEEE TMC, IEEE UIC, IEEE ICME, ACM UbiComp, Transportation Research.
+- PC Member: [ABC 2025](https://autocare.ai/abc2025), COMSNETS 2025.
 
 # 👥 Friends
 [Xuefu Dong](https://xjh9981.github.io/)
