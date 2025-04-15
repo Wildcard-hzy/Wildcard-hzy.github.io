@@ -25,7 +25,7 @@ My research interest includes Mobile Computing and Ubiquitous Computing. I have 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+- *2025.04*: &nbsp;🎉🎉 One paper got accepted by IEEE Transactions on Mobile Computing (TMC). 
 
 # 💻 Experience
 - *2023.06 - now* &nbsp; Lecturer, College of Artificial Intelligence, Dalian Maritime University, Dalian, China.
