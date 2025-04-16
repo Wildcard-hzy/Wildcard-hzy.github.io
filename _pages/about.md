@@ -20,7 +20,7 @@ redirect_from:
 This is Zengyi Han.
 
 I reveived my Ph.D. from Department of Information & Communication Engineering, The University of Tokyo, Japan in 2023 (supported by Japan MEXT).
-My research interest includes Mobile Computing and Ubiquitous Computing. I have published at the top international conferences such as PerCom, ICDCS.
+My research interest includes Mobile Computing and Ubiquitous Computing. I have published at the top international journal and conferences such as IEEE TMC, PerCom, ICDCS.
 
 <span class='anchor' id='news'></span>
 
