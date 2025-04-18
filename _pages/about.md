@@ -45,7 +45,7 @@ My research interest includes Mobile Computing and Ubiquitous Computing. I have 
 - *2018* Japan MEXT Ph.D Scholarship. 
 
 # 📝 Publications 
-- **IEEE TMC 2025** [HeadMon<sup>+</sup>: Domain Adaptive Head Dynamic-based Riding Maneuver Prediction, 2025 IEEE Transactions on Mobile Computing (TMC). IEEE, 2025], **Zengyi Han**, En Wang, Mohan Yu, Jie Wang, Yuuki Nishiyama, Kaoru Sezaki. (To Appear)
+- **IEEE TMC 2025** [HeadMon<sup>+</sup>: Domain Adaptive Head Dynamic-based Riding Maneuver Prediction, 2025 IEEE Transactions on Mobile Computing (TMC). IEEE, 2025], **Zengyi Han**, En Wang, Mohan Yu, Jie Wang, Yuuki Nishiyama, Kaoru Sezaki. DOI:10.1109/TMC.2025.3562179
 - **IEEE ICDCS 2024** [RideGuard: Micro-Mobility Steering Maneuver Prediction with Smartphones, 2024 IEEE 44th International Conference on Distributed Computing Systems (ICDCS). IEEE, 2024], **Zengyi Han**, Xuefu Dong, Liqiang Xu, Zhen Zhu, En Wang, Yuuki Nishiyama, Kaoru Sezaki. Acceptance Rate: 21.9%. Oral Presentation in Jersey City, US.
 - **IEEE WoWMoM 2023** [HeadSense: Visual Search Monitoring and Distracted Behavior Detection for Bicycle Riders, 2023 IEEE 24th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM). IEEE, 2023], **Zengyi Han**, Xuefu Dong, Yuuki Nishiyama, Kaoru Sezaki. Acceptance Rate: 28.2%. Oral Presentation in Boston, US.
 - **IEEE PerCom 2023** [Headmon: Head dynamics enabled riding maneuver prediction, 2023 IEEE International Conference on Pervasive Computing and Communications (PerCom). IEEE, 2023], **Zengyi Han**, Liqiang Xu, Xuefu Dong, Yuuki Nishiyama, Kaoru Sezaki. Acceptance Rate: 17%. Oral Presentation in Atlanta, US.
