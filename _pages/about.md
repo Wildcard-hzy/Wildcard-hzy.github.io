@@ -24,6 +24,7 @@ Currently, I am a lecturer (Assistant Professor) in Dalian Maritime University, 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2025.05*: &nbsp; Invited to serve as a scientific committee member for UbiComp4VRU Workshop 2025.
 - *2025.04*: &nbsp;🎉🎉 One paper got accepted by IEEE Transactions on Mobile Computing (TMC). 
 
 # 💻 Experience
