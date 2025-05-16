@@ -49,7 +49,7 @@ Currently, I am a lecturer (Assistant Professor) in Dalian Maritime University, 
 - **IEEE ICDCS 2024** [RideGuard: Micro-Mobility Steering Maneuver Prediction with Smartphones, 2024 IEEE 44th International Conference on Distributed Computing Systems (ICDCS). IEEE, 2024], **Zengyi Han**, Xuefu Dong, Liqiang Xu, Zhen Zhu, En Wang, Yuuki Nishiyama, Kaoru Sezaki. Acceptance Rate: 21.9%. Oral Presentation in Jersey City, US.
 - **IEEE WoWMoM 2023** [HeadSense: Visual Search Monitoring and Distracted Behavior Detection for Bicycle Riders, 2023 IEEE 24th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM). IEEE, 2023], **Zengyi Han**, Xuefu Dong, Yuuki Nishiyama, Kaoru Sezaki. Acceptance Rate: 28.2%. Oral Presentation in Boston, US.
 - **IEEE PerCom 2023** [Headmon: Head dynamics enabled riding maneuver prediction, 2023 IEEE International Conference on Pervasive Computing and Communications (PerCom). IEEE, 2023], **Zengyi Han**, Liqiang Xu, Xuefu Dong, Yuuki Nishiyama, Kaoru Sezaki. Acceptance Rate: 17%. Oral Presentation in Atlanta, US.
-- **IEEE SMC 2022** [Doublecheck: Single-handed cycling detection with a smartphone, 2022 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2022](https://ieeexplore.ieee.org/document/9945380), Xuefu Dong, **Zengyi Han\***, Yuuki Nishiyama, Kaoru Sezaki. Online Presentation.
+- **IEEE SMC 2022** [Doublecheck: Single-handed cycling detection with a smartphone, 2022 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2022], Xuefu Dong, **Zengyi Han\***, Yuuki Nishiyama, Kaoru Sezaki. Online Presentation.
 
 
 # 📋 Teaching
