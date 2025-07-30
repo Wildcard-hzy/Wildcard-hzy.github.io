@@ -58,7 +58,7 @@ Currently, I am a lecturer (Assistant Professor) in Dalian Maritime University, 
 
 # 🚩 Professional Services
 - Reviewer: IEEE TMC, IEEE UIC, IEEE ICME, ACM UbiComp, Transportation Research.
-- PC Member: [ABC 2025](https://autocare.ai/abc2025), COMSNETS 2025.
+- PC Member: [ABC 2025](https://autocare.ai/abc2025), COMSNETS 2025-2026.
 
 # 👥 Friends
 [Xuefu Dong](https://xjh9981.github.io/)
