@@ -55,8 +55,8 @@ Currently, I am a lecturer (Assistant Professor) in Dalian Maritime University, 
 
 
 # 📋 Teaching
-- *Discrete Mathematics* (1713010430) in DMU, 64 credit hours. 2024.
-- *Trustworthy Artificial Intelligence* (1713025910) in DMU, 40 credit hours. 2024-2025.
+- *Discrete Mathematics* (1713010430) in DMU, 64 credit hours. 2024, 2025.
+- *Trustworthy Artificial Intelligence* (1713025910) in DMU, 40 credit hours. 2024, 2025.
 
 # 🚩 Professional Services
 - Reviewer: IEEE TMC, IEEE UIC, IEEE ICME, ACM UbiComp, Transportation Research.
