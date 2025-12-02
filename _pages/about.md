@@ -24,6 +24,7 @@ Currently, I am a lecturer (Assistant Professor) in Dalian Maritime University, 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 One paper got accepted by IEEE Transactions on Mobile Computing (TMC). 
 - *2025.10*: &nbsp;🎉🎉 We got the Best Poster Award in UbiComp 2025!
 - *2025.10*: &nbsp;🎉🎉 One paper got accepted by EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (EAI MobiQuitous 2025).
 - *2025.05*: &nbsp; Invited to serve as a scientific committee member for [UbiComp4VRU Workshop 2025](https://www.comtec.eecs.uni-kassel.de/ubicomp4vru-workshop/) and review committee member for [UbiComp/ISWC 2025](https://ubicomp.org/ubicomp-iswc-2025/).
@@ -55,6 +56,7 @@ Currently, I am a lecturer (Assistant Professor) in Dalian Maritime University, 
 - **EAI Mobiquitous 2025** [RideStyle: Riding Style Representation from Head-Body Dynamics via Adversarial Learning, 2025 EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous), EAI, 2025], **Zengyi Han**, Yuuki Nishiyama, Kaoru Sezaki. Oral Presentation in Shanghai, China.
 - **IEEE SMC 2022** [Doublecheck: Single-handed cycling detection with a smartphone, 2022 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2022], Xuefu Dong, **Zengyi Han\***, Yuuki Nishiyama, Kaoru Sezaki. Online Presentation.
 - **ACM UbiComp 2025** [Poster: Recognizing Hidden-in-the-Ear Private Key for Reliable Silent Speech Interface Using Multi-Task Learning, 2025 ACM international joint conference on Pervasive and Ubiquitous Computing (UbiComp). ACM, 2025], Xuefu Dong, Liqiang Xu, Lixing He, **Zengyi Han\***, Kenneth Christofferson, Yifei Chen, Akihito Taya, Yuuki Nishiyama, Kaoru Sezaki. Poster Presentation in Espoo, Finland. [**<span style="color:red">Best Poster Award</span>**](images/Best_poster_award_ubicomp25.jpg)
+- **IEEE TMC 2025** [Federated Learning-based Distributed Data Completion in Sparse Mobile CrowdSensing, 2025 IEEE Transactions on Mobile Computing (TMC). IEEE, 2025], En Wang, Baoju Li, Wenbin Liu, **Zengyi Han**, Cong Wang, Ximing Li, Jie Wu.
 
 
 # 📋 Teaching
