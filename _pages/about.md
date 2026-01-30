@@ -19,7 +19,7 @@ redirect_from:
 
 This is Zengyi Han.
 
-Currently, I am a lecturer (Assistant Professor) in Dalian Maritime University, China. I reveived my Ph.D. from Department of Information & Communication Engineering, The University of Tokyo, Japan in 2023 (supported by Japan MEXT). My research interest includes Mobile Computing, Ubiquitous Computing and AIoT. I have published at the top international journal and conferences such as IEEE TMC, PerCom, ICDCS.
+Currently, I am an Research Asscoiate in Jilin University, China. I reveived my Ph.D. from Department of Information & Communication Engineering, The University of Tokyo, Japan in 2023 (supported by Japan MEXT). My research interest includes Mobile Computing, Ubiquitous Computing and AIoT. I have published at the top international journal and conferences such as IEEE TMC, PerCom, ICDCS.
 
 <span class='anchor' id='news'></span>
 
@@ -31,7 +31,8 @@ Currently, I am a lecturer (Assistant Professor) in Dalian Maritime University, 
 - *2025.04*: &nbsp;🎉🎉 One paper got accepted by IEEE Transactions on Mobile Computing (TMC). 
 
 # 💻 Experience
-- *2023.06 - now* &nbsp; Lecturer, College of Artificial Intelligence, Dalian Maritime University, Dalian, China.
+- *2026.02 - now* &nbsp; Research Associate, College of Computer Science and Technology, Jilin University, Changchun, China.
+- *2023.06 - 2026.01* &nbsp; Lecturer, College of Artificial Intelligence, Dalian Maritime University, Dalian, China.
 - *2020.04 - 2023.03* Research Assistant, Center for Spatial Information Science, The University of Tokyo, Tokyo, Japan.
 - *2019.10 - 2020.03* Research Student, Graduate School of Information Science and Technology, The University of Tokyo, Tokyo, Japan.
 - *2014.10 - 2015.10* Software Engineer Intern, Changchun Institute of Optics, Fine Mechanics and Physics, CAS, Changchun, China.
