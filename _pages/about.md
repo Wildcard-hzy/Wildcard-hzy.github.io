@@ -31,7 +31,7 @@ Currently, I am an Research Asscoiate in Jilin University, China. I reveived my 
 - *2025.04*: &nbsp;🎉🎉 One paper got accepted by IEEE Transactions on Mobile Computing (TMC). 
 
 # 💻 Experience
-- *2026.02 - now* &nbsp; Research Associate, College of Computer Science and Technology, Jilin University, Changchun, China.
+- *2026.02 - now* &nbsp; Research Associate (Dingxin Scholar), College of Computer Science and Technology, Jilin University, Changchun, China.
 - *2023.06 - 2026.01* Lecturer, College of Artificial Intelligence, Dalian Maritime University, Dalian, China.
 - *2020.04 - 2023.03* Research Assistant, Center for Spatial Information Science, The University of Tokyo, Tokyo, Japan.
 - *2019.10 - 2020.03* Research Student, Graduate School of Information Science and Technology, The University of Tokyo, Tokyo, Japan.
