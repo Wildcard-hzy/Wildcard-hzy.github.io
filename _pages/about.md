@@ -24,6 +24,7 @@ Currently, I am an Research Asscoiate in Jilin University, China. I reveived my 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2026.02*: &nbsp;I start working as an Research Asscoiate in Jilin University, China.
 - *2025.12*: &nbsp;🎉🎉 One paper got accepted by IEEE Transactions on Mobile Computing (TMC). 
 - *2025.10*: &nbsp;🎉🎉 We got the Best Poster Award in UbiComp 2025!
 - *2025.10*: &nbsp;🎉🎉 One paper got accepted by EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (EAI MobiQuitous 2025).
