@@ -19,12 +19,12 @@ redirect_from:
 
 This is Zengyi Han.
 
-Currently, I am an Research Asscoiate in Jilin University, China. I reveived my Ph.D. from Department of Information & Communication Engineering, The University of Tokyo, Japan in 2023 (supported by Japan MEXT). My research interest includes Mobile Computing, Ubiquitous Computing and AIoT. I have published at the top international journal and conferences such as IEEE TMC, PerCom, ICDCS.
+Currently, I am an Research Assistant in Jilin University, China. I reveived my Ph.D. from Department of Information & Communication Engineering, The University of Tokyo, Japan in 2023 (supported by Japan MEXT). My research interest includes Mobile Computing, Ubiquitous Computing and AIoT. I have published at the top international journal and conferences such as IEEE TMC, PerCom, ICDCS.
 
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2026.02*: &nbsp;I start working as an Research Asscoiate in Jilin University, China.
+- *2026.02*: &nbsp;I start working as an Research Assistant in Jilin University, China.
 - *2025.12*: &nbsp;🎉🎉 One paper got accepted by IEEE Transactions on Mobile Computing (TMC). 
 - *2025.10*: &nbsp;🎉🎉 We got the Best Poster Award in UbiComp 2025!
 - *2025.10*: &nbsp;🎉🎉 One paper got accepted by EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (EAI MobiQuitous 2025).
@@ -32,7 +32,7 @@ Currently, I am an Research Asscoiate in Jilin University, China. I reveived my 
 - *2025.04*: &nbsp;🎉🎉 One paper got accepted by IEEE Transactions on Mobile Computing (TMC). 
 
 # 💻 Experience
-- *2026.02 - now* &nbsp; Research Associate (Dingxin Scholar), College of Computer Science and Technology, Jilin University, Changchun, China.
+- *2026.02 - now* &nbsp; Research Assistant (Dingxin Scholar), College of Computer Science and Technology, Jilin University, Changchun, China.
 - *2023.06 - 2026.01* Lecturer, College of Artificial Intelligence, Dalian Maritime University, Dalian, China.
 - *2020.04 - 2023.03* Research Assistant, Center for Spatial Information Science, The University of Tokyo, Tokyo, Japan.
 - *2019.10 - 2020.03* Research Student, Graduate School of Information Science and Technology, The University of Tokyo, Tokyo, Japan.
