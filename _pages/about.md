@@ -19,7 +19,7 @@ redirect_from:
 
 This is Zengyi Han.
 
-Currently, I am an Research Assistant in Jilin University, China. I reveived my Ph.D. from Department of Information & Communication Engineering, The University of Tokyo, Japan in 2023 (supported by Japan MEXT). My research interest includes Mobile Computing, Ubiquitous Computing and AIoT. I have published at the top international journal and conferences such as IEEE TMC, PerCom, ICDCS.
+Currently, I am a Research Assistant in Jilin University, China. I reveived my Ph.D. from Department of Information & Communication Engineering, The University of Tokyo, Japan in 2023 (supported by Japan MEXT). My research interest includes Mobile Computing, Ubiquitous Computing and AIoT. I have published at the top international journal and conferences such as IEEE TMC, PerCom, ICDCS.
 
 <span class='anchor' id='news'></span>
 
@@ -67,8 +67,8 @@ Currently, I am an Research Assistant in Jilin University, China. I reveived my 
 - *Trustworthy Artificial Intelligence* (1713025910) in DMU, 40 credit hours. 2024, 2025.
 
 # 🚩 Professional Services
-- Reviewer: IEEE TMC, IEEE UIC, IEEE ICME, ACM UbiComp, Transportation Research.
-- PC Member: [ABC 2025](https://autocare.ai/abc2025), COMSNETS 2025-2026.
+- Reviewer: IEEE TMC, IEEE UIC, IEEE ICME, ACM UbiComp (IMWUT), Transportation Research.
+- PC Member: [ABC 2025-2027](https://autocare.ai/abc2027), COMSNETS 2025-2027.
 
 # 👥 Friends/Collaborators
 [Xuefu Dong](https://xjh9981.github.io/), [Yuuki Nishiyama](https://www.yuukinishiyama.com/)
