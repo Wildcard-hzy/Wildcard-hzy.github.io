@@ -24,6 +24,7 @@ Currently, I am a Research Assistant in Jilin University, China. I reveived my P
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 My proposal has been accepted by the NSFC (National Natural Science Foundation of China)!
 - *2026.02*: &nbsp;I start working as an Research Assistant in Jilin University, China.
 - *2025.12*: &nbsp;🎉🎉 One paper got accepted by IEEE Transactions on Mobile Computing (TMC). 
 - *2025.10*: &nbsp;🎉🎉 We got the Best Poster Award in UbiComp 2025!
