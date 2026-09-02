@@ -74,4 +74,4 @@ Currently, I am a Research Assistant in Jilin University, China. I reveived my P
 # 👥 Friends/Collaborators
 [Xuefu Dong](https://xjh9981.github.io/), [Yuuki Nishiyama](https://www.yuukinishiyama.com/)
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Amdvu9dO1llvuznD1KtywBiFI_IibjGjVDhrjmDtUgs&cl=ffffff&w=200&h=150"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=OpDXTuMh7ritl7kTODOz60bc3H5P1ehR9T6Wjqo6yCc&cl=ffffff&w=a"></script>
